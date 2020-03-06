@@ -30,7 +30,7 @@
   09. Ocorrência em Unidades de Conservação
   10. Juntando todos os dados
   
-  # Funções
+  ### Funções
   01. FB2020_get_taxon_scientificname_from_API
   02. GlobalTreeSearch_Check_Specie
   03. IUCNRedList_Check_Specie
